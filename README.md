@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-raja-babu" alt="ka-raja-babu" /></a> </p>
 
-- 📫 How to reach me **karajababusahu@gmail.com**
-
 - ⚡ Fun fact **Everything requires some form of coding !!**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka-raja-babu&show_icons=true&locale=en" alt="ka-raja-babu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-raja-babu&" alt="ka-raja-babu" /></p>
-
--->
