@@ -11,7 +11,7 @@
 </a>
 
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/poster.png)
 
 ## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
