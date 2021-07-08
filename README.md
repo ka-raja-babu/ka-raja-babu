@@ -1,13 +1,13 @@
-# Hello Everyone! I'm [Raja Babu](https://github.com/ka-raja-babu) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hello Everyone! I'm [Raja Babu](https://github.com/ka-raja-babu) <img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/raja-babu-01/">
-  <img align="left" alt="Raja's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Raja's Linkdein" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
 </a>
 <a href="https://github.com/ka-raja-babu">
-  <img align="left" alt="Raja's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Raja's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
 </a>
 <a href="mailto:karajababusahu@gmail.com">
-  <img align="left" alt="Raja's Email" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="Raja's Email" width="70px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/gmail.svg" />
 </a>
 
 <br><br>
@@ -26,21 +26,21 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+![Arduino](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/arduino.svg)
+![Rapspberry Pi](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/raspberrypi.svg)
+![C++](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c%2B%2B.svg)
+![C](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c.svg)
+![Python](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/python.svg)
+![MySQL](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/mysql.svg)
+![Matlab](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/matlab.svg)
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/arduino_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/raspberrypi_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c%2B%2B_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/python_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/mysql_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/readme_logo.svg" alt="drawing" width="50"/>
 </span>
       
 <hr> 
