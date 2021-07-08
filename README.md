@@ -1,22 +1,91 @@
-<h1 align="center">Hi 👋, I'm Raja Babu</h1>
-<h3 align="center">A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought.</h3>
+# Hello Everyone! I'm [Raja Babu](https://github.com/ka-raja-babu) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<br><br>
+<a href="https://www.linkedin.com/in/raja-babu-01/">
+  <img align="left" alt="Raja's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ka-raja-babu">
+  <img align="left" alt="Raja's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:karajababusahu@gmail.com">
+  <img align="left" alt="Raja's Email" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-raja-babu&label=Profile%20views&color=0e75b6&style=flat" alt="ka-raja-babu" /> </p>
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-raja-babu" alt="ka-raja-babu" /></a> </p>
+## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
-- ⚡ Fun fact **Everything requires some form of coding !!**
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raja-babu-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-babu-01" height="30" width="40" /></a>
+- 👷 <samp>Electrical Engineering | NITRR'22 | 9.60/10 CPI 
+- ⚡ <samp>Fun fact: Everything requires some form of coding !!
+</div>
+
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+  
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+</span>
+      
+<hr> 
+  
+<h3><b><samp>Check out my Repositories</samp></b></h3>
+
+<span>
+<a href="https://github.com/ka-raja-babu/Matrix-Theory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Matrix-Theory" />
+</a>
+  </span>
+  
+<hr>
+  
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/ka-raja-babu"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ka-raja-babu&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-raja-babu&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ka-raja-babu&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ka-raja-babu&theme=dracula" />
+    </span></a>
 </p>
+  
+<br>
+  
+##
+  
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ka-raja-babu&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+  
+##
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📈 GitHub Activity:
+  <a href="https://github.com/ka-raja-babu/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ka-raja-babu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-raja-babu&show_icons=true&locale=en&layout=compact" alt="ka-raja-babu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka-raja-babu&show_icons=true&locale=en" alt="ka-raja-babu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-raja-babu&" alt="ka-raja-babu" /></p>
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ka-raja-babu/count.svg" />
+</p>
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
