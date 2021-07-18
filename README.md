@@ -58,6 +58,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Arduino-Based-Robot" />
 </a>
   </span>
+  
+  <span>
+<a href="https://github.com/ka-raja-babu/Beacon-Tracking-for-Robot-Navigation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Beacon-Tracking-for-Robot-Navigation" />
+</a>
+  </span>
 <hr>
   
 ### Github Stats
