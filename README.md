@@ -6,9 +6,6 @@
 <a href="https://github.com/ka-raja-babu">
   <img align="left" alt="Raja's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
 </a>
-<a href="mailto:karajababusahu@gmail.com">
-  <img align="left" alt="Raja's Email" width="70px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/gmail.svg" />
-</a>
 
 <br><br>
 ![](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/poster.png)
