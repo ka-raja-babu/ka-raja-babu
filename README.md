@@ -52,14 +52,14 @@
   </span>
   
 <span>
-<a href="https://github.com/ka-raja-babu/Arduino-Based-Robot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Arduino-Based-Robot" />
+<a href="https://github.com/ka-raja-babu/Arduino-Based-Robots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Arduino-Based-Robots" />
 </a>
   </span>
   
   <span>
-<a href="https://github.com/ka-raja-babu/Beacon-Tracking-for-Robot-Navigation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Beacon-Tracking-for-Robot-Navigation" />
+<a href="https://github.com/ka-raja-babu/Autonomous-Navigation-of-Robots-using-Beacon-Tracking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Autonomous-Navigation-of-Robots-using-Beacon-Tracking" />
 </a>
   </span>
 <hr>
