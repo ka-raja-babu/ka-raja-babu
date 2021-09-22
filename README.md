@@ -47,7 +47,7 @@
   
   <span>
 <a href="https://github.com/ka-raja-babu/Drowsiness-and-Yawning-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Drowsiness-and-Yawning-Detection" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Drowsiness-and-Yawning-Detection-using-Image-Processing " />
 </a>
   </span>
   
@@ -59,7 +59,7 @@
   
   <span>
 <a href="https://github.com/ka-raja-babu/Autonomous-Navigation-of-Robots-using-Beacon-Tracking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Autonomous-Navigation-of-Robots-using-Beacon-Tracking" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Automatic-Navigation-of-Robots-using-Beacon-Tracking" />
 </a>
   </span>
 <hr>
