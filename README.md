@@ -44,16 +44,27 @@
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
+<span>
+<a href="https://github.com/ka-raja-babu/Air-Canvas-using-OpenCV-in-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Air-Canvas-using-OpenCV-in-Python" />
+</a>
+  </span>
   
-  <span>
-<a href="https://github.com/ka-raja-babu/Drowsiness-and-Yawning-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Drowsiness-and-Yawning-Detection-using-Image-Processing " />
+<span>
+<a href="https://github.com/ka-raja-babu/Drowsiness-and-Yawning-Detection-using-Image-Processing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Drowsiness-and-Yawning-Detection-using-Image-Processing" />
 </a>
   </span>
   
 <span>
 <a href="https://github.com/ka-raja-babu/Arduino-Based-Robots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=Arduino-Based-Robots" />
+</a>
+  </span>
+
+<span>
+<a href="https://github.com/ka-raja-babu/AMR-using-Image-Processing-and-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka-raja-babu&repo=AMR-using-Image-Processing-and-ML" />
 </a>
   </span>
   
@@ -88,7 +99,7 @@
 ##
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/ka-raja-babu/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ka-raja-babu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ka-raja-babu)](https://github.com/ka-raja-babu/github-readme-activity-graph)
 
 ##
 <p align="center"> 
